@@ -1,0 +1,23 @@
+{
+  "name": "fullstackPelicilas",
+  "version": "1.0.0",
+  "description": "Backend con Express y Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianToscano96"
+  },
+  "author": "Christian A. Toscano",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
